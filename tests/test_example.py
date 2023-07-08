@@ -1,5 +1,3 @@
-import pytest
-
 from example_package_yeerahdi.example import add_one
 
 

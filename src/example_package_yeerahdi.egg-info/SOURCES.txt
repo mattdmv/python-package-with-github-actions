@@ -3,8 +3,10 @@ README.md
 pyproject.toml
 src/example_package_yeerahdi/__init__.py
 src/example_package_yeerahdi/example.py
+src/example_package_yeerahdi/example_square.py
 src/example_package_yeerahdi.egg-info/PKG-INFO
 src/example_package_yeerahdi.egg-info/SOURCES.txt
 src/example_package_yeerahdi.egg-info/dependency_links.txt
 src/example_package_yeerahdi.egg-info/top_level.txt
 tests/test_example.py
+tests/test_example_square.py
